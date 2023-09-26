@@ -4,7 +4,8 @@ NOMES INTEGRANTES:
 MICHAEL DOUGLAS ALVES DE ALMEIDA – 323119041
 VICTOR HALLAK TAVARES – 323113598
 DAVI MONTEIRO DUARTE  - 3231148891  
-ALEXSANDER ------------------------------
+ALEXSANDER MIRANDA HENRIQUES - 323119320
+FERNANDO STANLEY DA SILVA - 323133626
 DESCRIÇÃO:  O AlumiCAD é um software de otimização e facilitação para fabricantes de esquadrias é uma solução poderosa e intuitiva projetada especificamente para atender às necessidades únicas da indústria de esquadrias. Ele é uma ferramenta indispensável que simplifica cada etapa do processo de fabricação, desde a criação do projeto até a produção final. 
 REQUISITOS FUNCIONAIS :
 1.	Gestão de Produção:
